@@ -1,2 +1,3 @@
 # AI-ML
-Artifiial intelligence and machine learning
+Artifiial intelligence and machine learning internship
+
